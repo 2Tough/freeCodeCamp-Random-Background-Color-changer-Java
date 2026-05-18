@@ -1,2 +1,2 @@
-# freeCodeCamp-Random-Background-Color-changer-Java
+# background-color-changer
 A similar project from the freeCodeCamp project but in Java. Made using jframe.
